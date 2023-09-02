@@ -1,0 +1,3 @@
+nama_saya = "Nama saya lavelia"
+
+print(nama_saya, "bertipe", type(nama_saya))
